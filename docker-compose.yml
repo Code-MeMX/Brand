@@ -1,0 +1,10 @@
+services:
+  brand:
+    image: ghcr.io/code-memx/brand:${IMAGE_TAG:-latest}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: code-me-brand
+    ports:
+      - "${PORT:-8080}:80"
+    restart: unless-stopped

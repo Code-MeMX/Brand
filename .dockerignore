@@ -1,0 +1,15 @@
+.git
+.github
+.docusaurus
+.cache-loader
+.DS_Store
+.env*
+node_modules
+build
+*.log
+Dockerfile
+docker-compose.yml
+.dockerignore
+.releaserc.json
+CHANGELOG.md
+README.md
