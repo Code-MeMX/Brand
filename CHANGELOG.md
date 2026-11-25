@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/Code-MeMX/Brand/compare/v1.0.0...v1.0.1) (2026-11-25)
+
+### Documentación
+
+* add comprehensive brand design system and identity guide DESIGN.md ([565fa5f](https://github.com/Code-MeMX/Brand/commit/565fa5ff99925907f860f604624206bbcca85ccf))
+
 ## 1.0.0 (2026-11-24)
 
 ### Nuevas funcionalidades
